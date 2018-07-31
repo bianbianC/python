@@ -1,0 +1,54 @@
+    {
+        "id": "128648",
+        "column_id": "72",
+        "post_id": null,
+        "is_top": "0",
+        "pin": "0",
+        "title": "传亚马逊将开售网络交换设备，思科股价跌4%",
+        "catch_title": "",
+        "description": "科技媒体The Information报道称，亚马逊AWS正考虑销售自己的网络交换设备。收此影响，思科等网络设备公司股价周五出现下跌。截至周五收盘，思科股价下跌4%，市值缩水85亿美元。Juniper股价下跌超过2%，Arista Networks股价下跌超过4%。（新浪科技）",
+        "cover": "",
+        "news_url_type": "news_url",
+        "news_url": "https://tech.sina.com.cn/it/2018-07-14/doc-ihfhfwmv1867127.shtml",
+        "user_id": "308613651",
+        "published_at": "2018-07-14 09:58:00",
+        "created_at": "2018-07-14 09:58:00",
+        "updated_at": "2018-07-14 09:58:00",
+        "counters": {
+            "view_count": "3",
+            "pv": "0",
+            "pv_mobile": "0",
+            "pv_app": "3",
+            "comment": "0"
+        },
+        "extraction_tags_arr": [],
+        "template_info": {
+            "template_type": "no_image",
+            "template_title": "传亚马逊将开售网络交换设备，思科股价跌4%",
+            "template_cover": []
+        },
+        "extraction_tags": "[]",
+        "column": {
+            "id": "72",
+            "name": "其他",
+            "bg_color": "#000000",
+            "type": "normal"
+        },
+        "db_counters": [{
+            "id": "2053767",
+            "entity_type": "newsflash",
+            "entity_id": "128648",
+            "count_type": "pv_app",
+            "key": "kr_newssite_counter:newsflash_128648_pv_app",
+            "value": "3",
+            "created_at": "2018-07-14 10:02:34",
+            "updated_at": "2018-07-14 11:19:54",
+            "entity_id_old": null
+        }],
+        "user": {
+            "id": "308613651",
+            "name": "梁风",
+            "avatar_url": "https://pic.36krcnd.com/avatar/201609/14081757/svc5ica3rvexkdf7.jpg!480"
+        },
+        "news_url_title": "原文链接"
+    },
